@@ -1,0 +1,2 @@
+# spelling_mistakes_longitudinal_monitoring
+longitudinal monitoring of spelling mistakes to assess neurological symptoms
